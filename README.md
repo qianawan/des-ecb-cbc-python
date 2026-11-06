@@ -1,6 +1,8 @@
 # DES coursework: ECB and CBC
 
-Undergraduate Cryptography and Information Security coursework by Qiaoyu Wan and Yiwen Wei, as credited in the original report. Individual contributions and the provenance of the custom ECB implementation still need confirmation; this repository does not claim sole authorship or a wholly original implementation.
+An undergraduate Cryptography and Information Security project exploring DES encryption and decryption in ECB and CBC modes using Python. The project covers DES key scheduling, Feistel rounds, padding and ciphertext encoding, with a CBC demonstration built on pyDes.
+
+Authors: Qiaoyu Wan and Yiwen Wei.
 
 ## Contents
 
