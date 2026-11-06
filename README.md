@@ -1,6 +1,6 @@
-# DES coursework: ECB and CBC
+# DES Encryption in Python — ECB and CBC
 
-An undergraduate Cryptography and Information Security project exploring DES encryption and decryption in ECB and CBC modes using Python. The project covers DES key scheduling, Feistel rounds, padding and ciphertext encoding, with a CBC demonstration built on pyDes.
+A Python cryptography project exploring DES encryption and decryption in ECB and CBC modes using Python. The project covers DES key scheduling, Feistel rounds, padding and ciphertext encoding, with a CBC demonstration built on pyDes.
 
 Authors: Qiaoyu Wan and Yiwen Wei.
 
@@ -8,7 +8,7 @@ Authors: Qiaoyu Wan and Yiwen Wei.
 
 - `src/des_ecb.py`: archived Python DES implementation with key scheduling, permutations, S-boxes, 16 Feistel rounds, encryption and decryption. Uses zero padding.
 - `src/des_cbc.py`: a CBC encryption/decryption demonstration built on **pyDes**, with PKCS#5 padding and hexadecimal output. CBC and DES internals here are provided by the library.
-- `tests/test_ecb.py`: validation added during repository preparation, not part of the original coursework.
+- `tests/test_ecb.py`: validation added during repository preparation, not part of the original project.
 
 ## Run
 
